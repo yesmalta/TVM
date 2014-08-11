@@ -21,8 +21,8 @@
     <description lang="pt">TED é uma organização sem fins lucrativos dedicada a 'Ideias com Valor'. Foi iniciada em 1984 como uma conferência que pretendia juntar pessoas de três mundos: Tecnologia, Entretenimento e Design. Desde ai tornou-se muito mais abrangente.</description>
     <platform>all</platform>
     <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-    <forum>http://forum.xbmc.org/showthread.php?tid=36866</forum>
-    <website>https://github.com/yesmalta/TVM</website>
-    <source>https://github.com/yesmalta/TVM.git</source>
+    <forum></forum>
+    <website></website>
+    <source></source>
   </extension>
 </addon>
