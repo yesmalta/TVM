@@ -12,7 +12,7 @@ __version__ = "X.X.X"
 
 def init():
     import xbmcaddon
-    addon = xbmcaddon.Addon(id='plugin.video.ted.talks')
+    addon = xbmcaddon.Addon(id='plugin.video.TVM')
     global __plugin__, getLS, __author__, __version__, __pluginLS__
     __plugin__ = addon.getAddonInfo('name')
     import CommonFunctions
