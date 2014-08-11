@@ -22,7 +22,7 @@
     <platform>all</platform>
     <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
     <forum>http://forum.xbmc.org/showthread.php?tid=36866</forum>
-    <website>https://github.com/moreginger/xbmc-plugin.video.ted.talks</website>
+    <website>https://github.com/yesmalta/TVM</website>
     <source>https://github.com/yesmalta/TVM.git</source>
   </extension>
 </addon>
