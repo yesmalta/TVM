@@ -163,6 +163,7 @@ class Main:
 				#stream_url = "http://www.html5videoplayer.net/videos/toystory.mp4"
 				stream_url = resolve_url(self.args_map['url'])		
 				
+				# see lubetube plugin.....
 				#list = [(stream_url,"",""), ("title2","","")]
 				#addNavMenu(list, 4, True)
 				
